@@ -2,3 +2,4 @@ Hello Git
 Local change 1
 Remote change
 PR change from Clone
+Change from GitHub (for fetch test)
